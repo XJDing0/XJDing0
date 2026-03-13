@@ -78,7 +78,7 @@
 
 **引用规范申明：** 鉴于过去工作量极大，跨度极大，很多工作系ai自动生成引文，难以在工作进度与严谨性之间平衡，因此敬请指正不当之处，待时间充裕时必一一回复与改正。 **Citation Specification:** Given the immense workload and span of past efforts, many works utilize AI-generated citations. It has been difficult to balance progress with rigor; therefore, corrections for any improprieties are invited. Replies and corrections will be provided as time permits.
 
-**整套体系的构建与完善远非我个人一人能够承担，这是人类走向下一个文明时代的工作基石，诚邀有识之士参与。** **The construction and perfection of this entire system is far beyond the capacity of a single individual. This is the foundational work for humanity's transition to the next civilization era; persons of insight are cordially invited to participate.**
+**整套体系的构建与完善远非我个人一人能够承担，这应该是人类走向下一个文明时代的工作基石，诚邀有识之士参与。** **The construction and perfection of this entire system is far beyond the capacity of a single individual. This is the foundational work for humanity's transition to the next civilization era; persons of insight are cordially invited to participate.**
 
 
 本项目的专利费，版权费，打赏费，唯一结算通道：
